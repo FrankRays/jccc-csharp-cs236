@@ -10,3 +10,4 @@ Projects include
 - TreeViewDirectoryStructure - Recursively displays a tree based on the directory you enter. Uses a TreeView, TextBox, Button, and a Label.
 - TabControl - Change label attributes by using a tab control. Uses 6 RadioButtons, a TabControl, 2 Labels, and a Timer.
 - MDITest - Lab where we used MDI (multiple document interface). You can create 4 different windows and cascade, and tile vertically and horizontally.
+- PhoneWordCombinations - Gives the user all the possible words from the last 4 digits of a phone number.
